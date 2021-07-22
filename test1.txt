@@ -1,1 +1,2 @@
 Hi this is my first new file and trying to add and coommit the file.
+this is modiified line and will add and commit the file.
